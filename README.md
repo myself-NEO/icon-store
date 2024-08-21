@@ -17,8 +17,10 @@ This repository contains a collection of SVG icons organized into different cate
 #### Example Using `<img>` Tag:
 ```html
 <img src="YOUR_COPIED_IMAGE_ADDRESS" alt="icon description">
+```
 
 Example Using as a CSS Background:
+```html
 .icon {
   background-image: url('YOUR_COPIED_IMAGE_ADDRESS');
   width: 50px; /* Adjust as needed */
