@@ -1,4 +1,4 @@
-# SVG Icon Collection
+# Icon Collection
 
 This repository contains a collection of SVG icons organized into different categories (e.g., `social`, `coding`, etc.). You can easily use these icons in your own projects by following the steps below.
 
