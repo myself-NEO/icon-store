@@ -27,3 +27,13 @@ Example Using as a CSS Background:
   height: 50px; /* Adjust as needed */
 }
 ```
+
+### 4. Customize the Icon (Optional)
+- Since these are SVG files, you can customize their appearance by directly editing the SVG code or applying CSS styles.
+  
+#### Example of Direct SVG Usage:
+```html
+<svg width="50" height="50" fill="currentColor">
+  <use xlink:href="YOUR_COPIED_IMAGE_ADDRESS"></use>
+</svg>
+```
